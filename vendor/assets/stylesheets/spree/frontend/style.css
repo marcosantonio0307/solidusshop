@@ -1,0 +1,67 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#default {
+
+}
+
+.container {
+	width: 100%;
+}
+
+#header {
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+#top-nav-bar {
+	width: 70%;
+	float: left;
+}
+
+#nav-bar {
+	float: right;
+}
+
+#logo {
+	float: left;
+	position: static;
+	width: 25%;
+	margin-top: 2em;
+}
+
+#locale_selector {
+	float: left;
+	margin-right: 40px;
+}
+
+#search-bar {
+	float: left;
+}
+
+li#link-to-cart {
+	
+}
+
+ul#main-nav-bar.inline {
+	height: 30px;
+}
+
+#wrapper {
+	margin: 2.5em;
+}
+
+#home-link {
+	display: none;
+}
+
+nav.columns.sixteen {
+	margin-left: 20%;
+}
+
+figure#logo.columns.six {
+	
+}
